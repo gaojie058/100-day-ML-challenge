@@ -16,7 +16,8 @@
 ### 工具包
 - **数据分析资料汇总**[PythonDataScience-Collections](https://github.com/hi-weijun/PythonDataScience-Collections)
 此链接非常非常重要，涵盖了github上许多重要的项目
-- 线性代数: [麻省理工公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)
+- [线性代数:麻省理工公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)
+- [吴恩达TensorFlow教程](https://www.bilibili.com/video/BV1zE411T7nb?p=13)
 
 Gao Jie
 2020/04/20
